@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from scipy.stats import ttest_ind
-from scipy.stats import 
+from scipy.stats import permutation_test
 
 chat_id = 252926140 # Ваш chat ID, не меняйте название переменной
 
